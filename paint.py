@@ -3,7 +3,7 @@ import random
 import time
 
 def main():
-    win = GraphWin("🎨 Paint - working version", 800, 500)
+    win = GraphWin("🎨 Elaheh's Mini Paint", 800, 500)
     win.setBackground("white")
 
     colors = ["black", "red", "blue", "green", "purple", "orange"]
