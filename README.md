@@ -31,6 +31,7 @@ Users can interactively draw lines, change colors, adjust pen thickness, clear t
 
 ```bash
 pip install graphics.py
+```
 
 > **Note:** `graphics.py` is John Zelle’s simple graphics library for Python.
 
@@ -40,6 +41,7 @@ Run the program:
 
 ```bash
 python paint.py
+```
 
 ## Controls
 
